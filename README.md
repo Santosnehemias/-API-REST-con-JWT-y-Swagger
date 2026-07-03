@@ -1,4 +1,4 @@
-# 🚀 Proyecto API REST - [Nombre de tu Proyecto]
+# 🚀 Proyecto API REST -
 
 Este repositorio contiene el desarrollo de una API RESTful segura y documentada, elaborada como parte de las asignaciones para la clase impartida por el **Profesor Santos Nehemias**. 
 
